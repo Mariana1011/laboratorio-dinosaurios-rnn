@@ -1,0 +1,20 @@
+10 nombres generados con GRU
+Muestreo: Top-p = 0.9
+Temperatura = 1.0
+
+1. anopalosaurus
+2. ausaurorsoraptor
+3. dadosaurus
+4. drysaurosaurus
+5. lisiachoraptor
+6. mamathosaurus
+7. manduia
+8. rontaceratops
+9. sauroratitan
+10. shamopala
+
+Los nombres fueron comparados con dinos.csv y ninguno coincide
+exactamente con un nombre del conjunto de entrenamiento.
+
+Nombre seleccionado para la prueba inicial:
+Dadosaurus
